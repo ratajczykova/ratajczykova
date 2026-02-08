@@ -17,6 +17,7 @@ node_identity:
   engineering_ethusiaism_uptime: 2024 - Present
   core_objective: Bridging the gap between hardware precision and intelligent control.
 ```
+---
 ###🛠️ CAD & Mechanical Design
 
 - SolidWorks: 3D Modeling, Complex Assemblies, Technical Drawings, Motion Study.
