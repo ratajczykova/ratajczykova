@@ -18,7 +18,7 @@ node_identity:
   core_objective: Bridging the gap between hardware precision and intelligent control.
 ```
 ---
-###🛠️ CAD & Mechanical Design
+**🛠️ CAD & Mechanical Design**
 
 - SolidWorks: 3D Modeling, Complex Assemblies, Technical Drawings, Motion Study.
 
@@ -26,7 +26,7 @@ node_identity:
 
 - Maintenance: Predictive/Corrective maintenance on industrial high-speed rotating machinery.
 
-###🧠 Embedded Systems & Intelligence
+**🧠 Embedded Systems & Intelligence**
 
 - Languages: Python (OpenCV, scikit-learn), C (Arduino/Embedded).
 
